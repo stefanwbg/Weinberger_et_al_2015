@@ -6,5 +6,7 @@ MS_VBA_macro_for_data_preprocessing.vb >>> Explanation: Weinberger et al., 2015,
 
 MS_VBA_macro_for_thermal_stability.vb >>> Explanation: Weinberger et al., 2015, chapter 3.5.
 
+GIS_macro_for_bathymetry.vbs >>> Explanation: Weinberger et al., 2015, chapter 3.3. and Figure 4
+
 
 License: The codes are free to use.
